@@ -16,7 +16,7 @@ The idea is to create a coffee order and try some methods like changing the size
 ## Example Output
 
 OrderId; 1
-coustomerName ; sara
+**coustomerName ; sara
 Size ; small
 Type ; coffee Day
 Price ; 10.0
@@ -39,3 +39,4 @@ Size ; Large
 Type ; Latte
 Price ; 36.0
 -----------------
+**
